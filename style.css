@@ -1,0 +1,93 @@
+.minha{
+   text-align: right;
+   padding-right: 70px;
+   padding-top: 180px;
+   color: skyblue;
+
+}
+
+.me{
+     height: 600px;
+     background-image: url(images/dev.1.jpg);
+     background-size: cover;
+    
+
+
+
+
+}
+
+.ab{
+     font-size: bold;
+
+
+}
+
+.but{
+           color: rgba(0, 0, 0, 0.952);
+           background-color: skyblue;
+           
+
+
+
+}
+
+
+.main{
+      display: flex;
+      gap: 300px;
+      justify-content: center;
+
+
+
+}
+
+.skills{
+          background-color: skyblue;
+          font-weight: bold;
+
+
+}
+
+.p{
+
+    color: rgb(13, 0, 88);
+   font-weight: bold;
+
+
+}
+
+.m-s{
+      color: blueviolet;
+      text-align: center;
+      background-color: aqua ;
+  
+
+
+
+}
+
+
+.myskills{
+            display: flex;
+            gap: 100px;
+            justify-content: center;
+            margin-top: 100px;
+
+
+
+
+
+}
+
+.foot{
+        display: flex;
+        gap: 200px;
+        justify-content: center;
+        padding: 100px 200px;
+        background-color: aqua;
+        margin-top: 100px;
+ 
+
+
+}
